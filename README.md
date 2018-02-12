@@ -42,8 +42,8 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 | Status                      | Year     | Course                                                           | Tutor                               |
 | :-------------------------: | :------- | :--------------------------------------------------------------- | :---------------------------------: |
-| ![Completed][Completed]     | 2017     | [Front End Development]                                          | [freeCodeCamp] - [freecodecamp.org] |
-| ![Completed][Completed]     | 2017     | [Front End Web Developer NanoDegree]                             | [Udacity] - [Udacity.com]           |
+| ![Completed][Completed]     | 2017     | [Front End Development]                                          | [freeCodeCamp]                      |
+| ![Completed][Completed]     | 2017     | [Front End Web Developer NanoDegree]                             | [Udacity]                           |
 | ![Completed][Completed]     | 2018     | [Learn CSS Grid]                                                 | [Per Harald Borgen] - [Scrimba]     |
 | ![In Progress][In Progress] | Feb 2018 | [Google Developer Challenge Scholarship] - Mobile Web Specialist | [Udacity]                           |
 | ![In Progress][In Progress] | Feb 2018 | [React For Beginners]                                            | [Wes Bos] - [reactforbeginners.com] |
