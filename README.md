@@ -45,8 +45,8 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | 2017     | [Front End Development]                                          | [freeCodeCamp] - [freecodecamp.org] |
 | ![Completed][Completed]     | 2017     | [Front End Web Developer NanoDegree]                             | [Udacity] - [Udacity.com]           |
 | ![Completed][Completed]     | 2018     | [Learn CSS Grid]                                                 | [Per Harald Borgen] - [Scrimba]     |
-| ![In Progress][In Progress] | Feb 2018 | [React For Beginners]                                            | [Wes Bos] - [reactforbeginners.com] |
 | ![In Progress][In Progress] | Feb 2018 | [Google Developer Challenge Scholarship] - Mobile Web Specialist | [Udacity]                           |
+| ![In Progress][In Progress] | Feb 2018 | [React For Beginners]                                            | [Wes Bos] - [reactforbeginners.com] |
 | ![Soon][Soon]               |          | [JavaScript30]                                                   | [Wes Bos] - [javascript30.com]      |
 | ![Soon][Soon]               |          | [CSS Grid]                                                       | [Wes Bos] - [cssgrid.io]            |
 | ![Soon][Soon]               |          | [flexbox]                                                        | [Wes Bos] - [flexbox.io]            |
@@ -73,6 +73,11 @@ A complete log of my web development skills, learning, resources, highlights, in
 [Wes Bos]: https://twitter.com/wesbos
 [Per Harald Borgen]: https://twitter.com/perborgen
 [Scrimba]: https://scrimba.com/
+[learnredux.com]: https://learnredux.com
+[javascript30.com]: https://javascript30.com
+[cssgrid.io]: https://cssgrid.io
+[flexbox.io]: https://flexbox.io
+[reactforbeginners.com]: https://reactforbeginners.com
 
 ## Web Development Checklist
 
