@@ -1,8 +1,6 @@
 # My Learning Tracker
 A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
 
-[For my full portfolio click here](https://ritikpatni.me/ "https://ritikpatni.me") "Regular logs of my learning with links, reflections, and information about my learning process")
-
 ----
 
 ## Skills
@@ -42,18 +40,18 @@ A complete log of my web development skills, learning, resources, highlights, in
 [In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
 [Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
 
-| Status                      | Year     | Course                                                   | Tutor                               |
-| :-------------------------: | :------- | :------------------------------------------------------- | :---------------------------------: |
-| ![Completed][Completed]     | 2017     | [Front End Development]                                  | [freeCodeCamp] - [freecodecamp.org] |
-| ![Completed][Completed]     | 2017     | [Front End Web Developer NanoDegree]                     | [Udacity] - [Udacity.com]           |
-| ![Completed][Completed]     | 2018     | [Learn CSS Grid]                                         | [Per Harald Borgen] - [Scrimba]     |
-| ![In Progress][In Progress] | Feb 2018 | [React For Beginners]                                    | [Wes Bos] - [reactforbeginners.com] |
-| ![In Progress][In Progress] | Feb 2018 | [Google Developer Challenge Scholarship] - Web Developer | [Udacity]                           |
-| ![Soon][Soon]               |          | [JavaScript30]                                           | [Wes Bos] - [javascript30.com]      |
-| ![Soon][Soon]               |          | [CSS Grid]                                               | [Wes Bos] - [cssgrid.io]            |
-| ![Soon][Soon]               |          | [flexbox]                                                | [Wes Bos] - [flexbox.io]            |
-| ![Soon][Soon]               |          | [Learn Redux]                                            | [Wes Box] - [learnredux.com]        |
-| ![Soon][Soon]               |          | [DailyUI]                                                | [DailyUI]                           |
+| Status                      | Year     | Course                                                           | Tutor                               |
+| :-------------------------: | :------- | :--------------------------------------------------------------- | :---------------------------------: |
+| ![Completed][Completed]     | 2017     | [Front End Development]                                          | [freeCodeCamp] - [freecodecamp.org] |
+| ![Completed][Completed]     | 2017     | [Front End Web Developer NanoDegree]                             | [Udacity] - [Udacity.com]           |
+| ![Completed][Completed]     | 2018     | [Learn CSS Grid]                                                 | [Per Harald Borgen] - [Scrimba]     |
+| ![In Progress][In Progress] | Feb 2018 | [React For Beginners]                                            | [Wes Bos] - [reactforbeginners.com] |
+| ![In Progress][In Progress] | Feb 2018 | [Google Developer Challenge Scholarship] - Mobile Web Specialist | [Udacity]                           |
+| ![Soon][Soon]               |          | [JavaScript30]                                                   | [Wes Bos] - [javascript30.com]      |
+| ![Soon][Soon]               |          | [CSS Grid]                                                       | [Wes Bos] - [cssgrid.io]            |
+| ![Soon][Soon]               |          | [flexbox]                                                        | [Wes Bos] - [flexbox.io]            |
+| ![Soon][Soon]               |          | [Learn Redux]                                                    | [Wes Bos] - [learnredux.com]        |
+| ![Soon][Soon]               |          | [DailyUI]                                                        | [DailyUI]                           |
 
 [//]: # (Reference links to courses)
 
