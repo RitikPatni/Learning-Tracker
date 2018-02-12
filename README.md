@@ -113,7 +113,7 @@ If you find this useful for your own needs you are welcome to fork a copy, custo
 
 This is a learning tracker based on the learning tracker by [Syk Houdeib](https://github.com/Syknapse/My-Learning-Tracker).If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
 
-**You can [follow me on Twitter](https://twitter.com/03ritikpatni "@03ritikpatni")
+**You can connect with me on [Twitter](https://twitter.com/03ritikpatni "@03ritikpatni")**
 
 ----
 
