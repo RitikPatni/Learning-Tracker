@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+## Day 4: Feb 14,2018
+
+**Today's Progress**: 
+* Learned about the Service Worker and how it can change the awful lie-fi experience
+
 ## Day 3: Feb 14,2018
 
 **Today's Progress**: 
