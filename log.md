@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+## Day 5: Feb 15,2018
+
+**Today's Progress**: 
+* Learned about Bi-directional Data Flow and Live State Editing with wesbos's reactforbeginners tutorial
+
 ## Day 4: Feb 14,2018
 
 **Today's Progress**: 
