@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
-## Day 5: Feb 15,2018
+## Day 6: Feb 17,2018
+
+**Today's Progress**: 
+* Learned about how to remove items from states in React
+
+## Day 5: Feb 16,2018
 
 **Today's Progress**: 
 * Learned about Bi-directional Data Flow and Live State Editing with wesbos's reactforbeginners tutorial
