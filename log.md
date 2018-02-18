@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 7: Feb 18,2018
+
+**Today's Progress**: 
+* Learned how to animate components in React plus how to validate elements with propTypes
+
+**Notes**
+* [Typechecking with PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
+
 ## Day 6: Feb 17,2018
 
 **Today's Progress**: 
