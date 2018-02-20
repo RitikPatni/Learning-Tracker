@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## Day 9: Feb 18,2018
+## Day 9: Feb 20,2018
 
 **Today's Progress**: 
 * Completed React for beginners course by wesbos
