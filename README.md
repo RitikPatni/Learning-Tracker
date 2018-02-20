@@ -43,11 +43,10 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 | Status                      | Year     | Course                                                           | Tutor                               |
 | :-------------------------: | :------- | :--------------------------------------------------------------- | :---------------------------------: |
-| ![Completed][Completed]     | 2017     | [Front End Development]                                          | [freeCodeCamp]                      |
-| ![Completed][Completed]     | 2017     | [Front End Web Developer NanoDegree]                             | [Udacity]                           |
-| ![Completed][Completed]     | 2018     | [Learn CSS Grid]                                                 | [Per Harald Borgen] - [Scrimba]     |
-| ![In Progress][In Progress] | Feb 2018 | [Google Developer Challenge Scholarship] - Mobile Web Specialist | [Udacity]                           |
-| ![In Progress][In Progress] | Feb 2018 | [React For Beginners]                                            | [Wes Bos] - [reactforbeginners.com] |
+| ![Completed][Completed]     | Aug 2017     | [Front End Development]                                          | [freeCodeCamp]                      |
+| ![Completed][Completed]     | Nov 2017     | [Front End Web Developer NanoDegree]                             | [Udacity]                           |
+| ![Completed][Completed]     | Jan 2018     | [Learn CSS Grid]                                                 | [Per Harald Borgen] - [Scrimba]     |
+| ![Completed][Completed] | Feb 2018 | [React For Beginners]                                            | [Wes Bos] - [reactforbeginners.com] |
 | ![Soon][Soon]               |          | [JavaScript30]                                                   | [Wes Bos] - [javascript30.com]      |
 | ![Soon][Soon]               |          | [CSS Grid]                                                       | [Wes Bos] - [cssgrid.io]            |
 | ![Soon][Soon]               |          | [flexbox]                                                        | [Wes Bos] - [flexbox.io]            |
