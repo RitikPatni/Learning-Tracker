@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 9: Feb 18,2018
+
+**Today's Progress**: 
+* Completed React for beginners course by wesbos
+
+## Day 8: Feb 19,2018
+
+**Today's Progress**: 
+* Learned how to authenticate via Facebook/Twitter/Github with firebase
+
 ## Day 7: Feb 18,2018
 
 **Today's Progress**: 
