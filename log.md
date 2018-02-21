@@ -3,6 +3,19 @@
 ## Day 9: Feb 20,2018
 
 **Today's Progress**: 
+* Not much code to log down today but fixed the annoying HTML formatting problem with .vue files in vscode
+
+**Notes**
+Added this to **.vscode/settings.json** 
+```
+{
+  "vetur.format.defaultFormatter.html": "js-beautify-html"
+}
+```
+
+## Day 9: Feb 20,2018
+
+**Today's Progress**: 
 * Completed React for beginners course by wesbos
 
 ## Day 8: Feb 19,2018
