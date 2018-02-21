@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## Day 9: Feb 20,2018
+## Day 10: Feb 21,2018
 
 **Today's Progress**: 
 * Not much code to log down today but fixed the annoying HTML formatting problem with .vue files in vscode
