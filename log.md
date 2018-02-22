@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 11: Feb 22,2018
+
+**Today's Progress**: 
+* Made my first custom vue component today and  loaded a google map in it
+
+
 ## Day 10: Feb 21,2018
 
 **Today's Progress**: 
