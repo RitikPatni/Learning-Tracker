@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+## Day 12: Feb 23,2018
+
+**Today's Progress**: 
+* Made very little progress with the vue google maps component
+
 ## Day 11: Feb 22,2018
 
 **Today's Progress**: 
