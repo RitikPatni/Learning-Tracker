@@ -1,4 +1,5 @@
 # My Learning Tracker
+
 A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
 
 ----
@@ -7,7 +8,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 
-| Skill                        | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome |
+| Skill                        | 1 Introduction | 2 Basics   | 3 Good     | 4 Pretty Good | 5 Confident | 6 Awesome |
 | :--------------------------: | :---------------: | :-----------: | :-----------: | :--------------: | :------------: | :----------: |
 | **HTML5**                    | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |              |
 | **CSS3**                     | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |              |
@@ -27,9 +28,9 @@ A complete log of my web development skills, learning, resources, highlights, in
 | **Node.js**                  | ![done][done]     |               |               |                  |                |              |
 | **NPM**                      | ![done][done]     | ![done][done] |               |                  |                |              |
 | **Open Source Contribution** | ![done][done]     | ![done][done] |               |                  |                |              |
-| **React**                    | ![done][done]     | ![done][done] |![done][done]               |                  |                |              |
+| **React**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |              |
 | **Vue**                      | ![done][done]     | ![done][done] |               |                  |                |              |
-| **FireBase**                      | ![done][done]     | ![done][done] |               |                  |                |              |
+| **FireBase**                 | ![done][done]     | ![done][done] |               |                  |                |              |
 
 ----
 
@@ -41,18 +42,18 @@ A complete log of my web development skills, learning, resources, highlights, in
 [In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
 [Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
 
-| Status                      | Year     | Course                                                           | Tutor                               |
-| :-------------------------: | :------- | :--------------------------------------------------------------- | :---------------------------------: |
-| ![Completed][Completed]     | Aug 2017     | [Front End Development]                                          | [freeCodeCamp]                      |
-| ![Completed][Completed]     | Nov 2017     | [Front End Web Developer NanoDegree]                             | [Udacity]                           |
-| ![Completed][Completed]     | Jan 2018     | [Learn CSS Grid]                                                 | [Per Harald Borgen] - [Scrimba]     |
-| ![Completed][Completed] | Feb 2018 | [React For Beginners]                                            | [Wes Bos] - [reactforbeginners.com] |
-| ![Completed][Completed]               |  Feb 2018        | [Learn CSS Variables]                                                   | [Per Harald Borgen] - [Scrimba]     |
- ![Soon][Soon]               |          | [JavaScript30]                                                   | [Wes Bos] - [javascript30.com]      |
-| ![Soon][Soon]               |          | [CSS Grid]                                                       | [Wes Bos] - [cssgrid.io]            |
-| ![Soon][Soon]               |          | [flexbox]                                                        | [Wes Bos] - [flexbox.io]            |
-| ![Soon][Soon]               |          | [Learn Redux]                                                    | [Wes Bos] - [learnredux.com]        |
-| ![Soon][Soon]               |          | [DailyUI]                                                        | [DailyUI]                           |
+| Status                  | Year     | Course                               | Tutor                               |
+| :---------------------: | :------- | :----------------------------------- | :---------------------------------: |
+| ![Completed][Completed] | Aug 2017 | [Front End Development]              | [freeCodeCamp]                      |
+| ![Completed][Completed] | Nov 2017 | [Front End Web Developer NanoDegree] | [Udacity]                           |
+| ![Completed][Completed] | Jan 2018 | [Learn CSS Grid]                     | [Per Harald Borgen] - [Scrimba]     |
+| ![Completed][Completed] | Feb 2018 | [React For Beginners]                | [Wes Bos] - [reactforbeginners.com] |
+| ![Completed][Completed] | Feb 2018 | [Learn CSS Variables]                | [Per Harald Borgen] - [Scrimba]     |
+| ![Soon][Soon]           |          | [JavaScript30]                       | [Wes Bos] - [javascript30.com]      |
+| ![Soon][Soon]           |          | [CSS Grid]                           | [Wes Bos] - [cssgrid.io]            |
+| ![Soon][Soon]           |          | [flexbox]                            | [Wes Bos] - [flexbox.io]            |
+| ![Soon][Soon]           |          | [Learn Redux]                        | [Wes Bos] - [learnredux.com]        |
+| ![Soon][Soon]           |          | [DailyUI]                            | [DailyUI]                           |
 
 [//]: # (Reference links to courses)
 
@@ -87,7 +88,6 @@ This is a list of basic objectives to meet on the road to mastering web developm
 
 It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Things Real Developers Do: My Bucket List"](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155)
 
-
 * [x] Open the computer’s terminal
 * [x] Use a text editor (bonus points if you have a specific reason for choosing it)
 * [x] Use some keyboard shortcuts
@@ -121,4 +121,4 @@ This is a learning tracker based on the learning tracker by [Syk Houdeib](https:
 
 ### Acknowledgments
 
-This has been inspired by [Syk Houdeib](https://github.com/Syknapse) and his awesome [Learning Tracker](https://github.com/Syknapse/My-Learning-Tracker). 
+This has been inspired by [Syk Houdeib](https://github.com/Syknapse) and his awesome [Learning Tracker](https://github.com/Syknapse/My-Learning-Tracker).
