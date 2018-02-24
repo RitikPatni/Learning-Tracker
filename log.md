@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+## Day 13: Feb 24,2018
+
+**Today's Progress**: 
+* Completed CSS Variables course at Scrimba
+
+**Notes**:
+```
+:root
+{
+--black:#0a0a0a;
+}
+body
+{
+color:var(--black);
+}
+```
+
 ## Day 12: Feb 23,2018
 
 **Today's Progress**: 
@@ -9,7 +26,6 @@
 
 **Today's Progress**: 
 * Made my first custom vue component today and  loaded a google map in it
-
 
 ## Day 10: Feb 21,2018
 
