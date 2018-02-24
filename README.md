@@ -47,7 +47,8 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | Nov 2017     | [Front End Web Developer NanoDegree]                             | [Udacity]                           |
 | ![Completed][Completed]     | Jan 2018     | [Learn CSS Grid]                                                 | [Per Harald Borgen] - [Scrimba]     |
 | ![Completed][Completed] | Feb 2018 | [React For Beginners]                                            | [Wes Bos] - [reactforbeginners.com] |
-| ![Soon][Soon]               |          | [JavaScript30]                                                   | [Wes Bos] - [javascript30.com]      |
+| ![Completed][Completed]               |  Feb 2018        | [Learn CSS Variables]                                                   | [Per Harald Borgen] - [Scrimba]     |
+ ![Soon][Soon]               |          | [JavaScript30]                                                   | [Wes Bos] - [javascript30.com]      |
 | ![Soon][Soon]               |          | [CSS Grid]                                                       | [Wes Bos] - [cssgrid.io]            |
 | ![Soon][Soon]               |          | [flexbox]                                                        | [Wes Bos] - [flexbox.io]            |
 | ![Soon][Soon]               |          | [Learn Redux]                                                    | [Wes Bos] - [learnredux.com]        |
@@ -64,6 +65,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 [Google Developer Challenge Scholarship]: https://www.udacity.com/google-scholarships
 [JavaScript30]: https://javascript30.com/
 [Learn CSS Grid]: https://scrimba.com/g/gR8PTE
+[Learn CSS Variables]: https://scrimba.com/p/ppYrcJ
 [Learn Redux]: https://learnredux.com
 
 [//]: # (Reference links to tutors)
