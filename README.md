@@ -29,7 +29,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 | **NPM**                      | ![done][done]     | ![done][done] |               |                  |                |              |
 | **Open Source Contribution** | ![done][done]     | ![done][done] |               |                  |                |              |
 | **React**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |              |
-| **Vue**                      | ![done][done]     | ![done][done] |               |                  |                |              |
+| **Vue**                      | ![done][done]     | ![done][done] | ![done][done] |                  |                |              |
 | **FireBase**                 | ![done][done]     | ![done][done] |               |                  |                |              |
 
 ----
