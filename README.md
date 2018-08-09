@@ -1,6 +1,6 @@
 # My Learning Tracker
 
-A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
+A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organize, and share my learning.
 
 ----
 
@@ -13,22 +13,22 @@ A complete log of my web development skills, learning, resources, highlights, in
 | **HTML5**                    | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |              |
 | **CSS3**                     | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |              |
 | **JavaScript**               | ![done][done]     | ![done][done] | ![done][done] |                  |                |              |
-| **ES6**                      | ![done][done]     | ![done][done] |               |                  |                |              |
+| **ES6**                      | ![done][done]     | ![done][done] | ![done][done] |                  |                |              |
 | **Website Building**         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |              |
 | **Responsive design**        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |              |
 | **Mobile first**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |              |
-| **Css Grid & Flex-box**      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |              |
+| **CSS Grid & Flex-box**      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |              |
 | **GitHub**                   | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |              |
 | **Bootstrap**                | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |              |
 | **jQuery**                   | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |              |
 | **Publishing website**       | ![done][done]     | ![done][done] | ![done][done] |                  |                |              |
-| **Git/Git bash**             | ![done][done]     | ![done][done] |               |                  |                |
+| **Git/Git bash**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |
 | **Command line**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |              |
 | **Markdown**                 | ![done][done]     | ![done][done] |               |                  |                |              |
 | **Node.js**                  | ![done][done]     |               |               |                  |                |              |
 | **NPM**                      | ![done][done]     | ![done][done] |               |                  |                |              |
 | **Open Source Contribution** | ![done][done]     | ![done][done] |               |                  |                |              |
-| **React**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |              |
+| **React**                    | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |              |
 | **Vue**                      | ![done][done]     | ![done][done] | ![done][done] |                  |                |              |
 | **FireBase**                 | ![done][done]     | ![done][done] |               |                  |                |              |
 
@@ -107,8 +107,8 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [x] Deploy a project
 * [ ] Ship your project to a store
 * [x] Contribute to open source
-* [ ] Get paid to code
-* [ ] When people ask what you do, respond saying you’re a developer :)
+* [x] Get paid to code
+* [x] When people ask what you do, respond saying you’re a developer :)
 
 ----
 If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
