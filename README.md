@@ -8,29 +8,30 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 
-| Skill                        | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome |
-| :--------------------------: | :---------------: | :-----------: | :-----------: | :--------------: | :------------: | :----------: |
-| **HTML5**                    | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |              |
-| **CSS3**                     | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |              |
-| **JavaScript**               | ![done][done]     | ![done][done] | ![done][done] |                  |                |              |
-| **ES6**                      | ![done][done]     | ![done][done] | ![done][done] |                  |                |              |
-| **Website Building**         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |              |
-| **Responsive design**        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |              |
-| **Mobile first**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |              |
-| **CSS Grid & Flex-box**      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |              |
-| **GitHub**                   | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |              |
-| **Bootstrap**                | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |              |
-| **jQuery**                   | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |              |
-| **Publishing website**       | ![done][done]     | ![done][done] | ![done][done] |                  |                |              |
+| Skill                        | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome  |
+| :--------------------------: | :---------------: | :-----------: | :-----------: | :--------------: | :------------: | :-----------: |
+| **HTML5**                    | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done] |
+| **CSS3**                     | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done] |
+| **JavaScript**               | ![done][done]     | ![done][done] | ![done][done] |                  |                |               |
+| **ES6**                      | ![done][done]     | ![done][done] | ![done][done] |                  |                |               |
+| **Website Building**         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |               |
+| **Responsive design**        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |               |
+| **Mobile first**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |               |
+| **CSS Grid & Flex-box**      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |               |
+| **GitHub**                   | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |               |
+| **Bootstrap**                | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |               |
+| **jQuery**                   | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |               |
+| **Publishing website**       | ![done][done]     | ![done][done] | ![done][done] |                  |                |               |
 | **Git/Git bash**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |
-| **Command line**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |              |
-| **Markdown**                 | ![done][done]     | ![done][done] |               |                  |                |              |
-| **Node.js**                  | ![done][done]     |               |               |                  |                |              |
-| **NPM**                      | ![done][done]     | ![done][done] |               |                  |                |              |
-| **Open Source Contribution** | ![done][done]     | ![done][done] |               |                  |                |              |
-| **React**                    | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |              |
-| **Vue**                      | ![done][done]     | ![done][done] | ![done][done] |                  |                |              |
-| **FireBase**                 | ![done][done]     | ![done][done] |               |                  |                |              |
+| **Command line**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |               |
+| **Markdown**                 | ![done][done]     | ![done][done] | ![done][done] |                  |                |               |
+| **Node.js**                  | ![done][done]     |               |               |                  |                |               |
+| **NPM**                      | ![done][done]     | ![done][done] |               |                  |                |               |
+| **Open Source Contribution** | ![done][done]     | ![done][done] |               |                  |                |               |
+| **React**                    | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |               |
+| **Vue**                      | ![done][done]     | ![done][done] | ![done][done] |                  |                |               |
+| **FireBase**                 | ![done][done]     | ![done][done] |               |                  |                |               |
+| **Figma**                    | ![done][done]     | ![done][done] |               |                  |                |               |
 
 ----
 
@@ -42,18 +43,20 @@ A complete log of my web development skills, learning, resources, highlights, in
 [In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
 [Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
 
-| Status                  | Year     | Course                               | Tutor                               |
-| :---------------------: | :------- | :----------------------------------- | :---------------------------------: |
-| ![Completed][Completed] | Aug 2017 | [Front End Development]              | [freeCodeCamp]                      |
-| ![Completed][Completed] | Nov 2017 | [Front End Web Developer NanoDegree] | [Udacity]                           |
-| ![Completed][Completed] | Jan 2018 | [Learn CSS Grid]                     | [Per Harald Borgen] - [Scrimba]     |
-| ![Completed][Completed] | Feb 2018 | [React For Beginners]                | [Wes Bos] - [reactforbeginners.com] |
-| ![Completed][Completed] | Feb 2018 | [Learn CSS Variables]                | [Per Harald Borgen] - [Scrimba]     |
-| ![Soon][Soon]           |          | [JavaScript30]                       | [Wes Bos] - [javascript30.com]      |
-| ![Soon][Soon]           |          | [CSS Grid]                           | [Wes Bos] - [cssgrid.io]            |
-| ![Soon][Soon]           |          | [flexbox]                            | [Wes Bos] - [flexbox.io]            |
-| ![Soon][Soon]           |          | [Learn Redux]                        | [Wes Bos] - [learnredux.com]        |
-| ![Soon][Soon]           |          | [DailyUI]                            | [DailyUI]                           |
+| Status                      | Year     | Course                               | Tutor                                         |
+| :-------------------------: | :------- | :----------------------------------- | :-------------------------------------------: |
+| ![Completed][Completed]     | Aug 2017 | [Front End Development]              | [freeCodeCamp]                                |
+| ![Completed][Completed]     | Nov 2017 | [Front End Web Developer NanoDegree] | [Udacity]                                     |
+| ![Completed][Completed]     | Jan 2018 | [Learn CSS Grid]                     | [Per Harald Borgen] - [Scrimba]               |
+| ![Completed][Completed]     | Feb 2018 | [React For Beginners]                | [Wes Bos] - [reactforbeginners.com]           |
+| ![Completed][Completed]     | Feb 2018 | [Learn CSS Variables]                | [Per Harald Borgen] - [Scrimba]               |
+| ![In Progress][In Progress] |          | [CSS Grid]                           | [Wes Bos] - [cssgrid.io]                      |
+| ![In Progress][In Progress] |          | [Flexbox Zombies]                    | [Geddski] - [mastery.games/p/flexbox-zombies] |
+| ![Soon][Soon]               |          | [JavaScript30]                       | [Wes Bos] - [javascript30.com]                |
+| ![Soon][Soon]               |          | [ES6]                                | [Wes Bos] - [es6.io]                          |
+| ![Soon][Soon]               |          | [flexbox]                            | [Wes Bos] - [flexbox.io]                      |
+| ![Soon][Soon]               |          | [Learn Redux]                        | [Wes Bos] - [learnredux.com]                  |
+| ![Soon][Soon]               |          | [DailyUI]                            | [DailyUI]                                     |
 
 [//]: # (Reference links to courses)
 
@@ -62,25 +65,29 @@ A complete log of my web development skills, learning, resources, highlights, in
 [DailyUI]: http://www.dailyui.co/
 [flexbox]: https://www.flexbox.io
 [CSS Grid]: https://www.cssgrid.io
+[ES6]: https://www.es6.io
 [Front End Development]: https://www.freecodecamp.org/ritikpatni
 [Google Developer Challenge Scholarship]: https://www.udacity.com/google-scholarships
 [JavaScript30]: https://javascript30.com/
 [Learn CSS Grid]: https://scrimba.com/g/gR8PTE
 [Learn CSS Variables]: https://scrimba.com/p/ppYrcJ
 [Learn Redux]: https://learnredux.com
-
+[Flexbox Zombies]:https://mastery.games/p/flexbox-zombies
 [//]: # (Reference links to tutors)
 
 [freeCodeCamp]: https://www.freecodecamp.org
 [Udacity]: https://www.udacity.com
 [Wes Bos]: https://twitter.com/wesbos
+[Geddski]: https://twitter.com/geddski
 [Per Harald Borgen]: https://twitter.com/perborgen
 [Scrimba]: https://scrimba.com/
 [learnredux.com]: https://learnredux.com
 [javascript30.com]: https://javascript30.com
 [cssgrid.io]: https://cssgrid.io
+[es6.io]: https://es6.io
 [flexbox.io]: https://flexbox.io
 [reactforbeginners.com]: https://reactforbeginners.com
+[mastery.games/p/flexbox-zombies]: https://mastery.games/p/flexbox-zombies
 
 ## Web Development Checklist
 
