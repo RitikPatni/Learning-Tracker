@@ -50,7 +50,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | Jan 2018 | [Learn CSS Grid]                     | [Per Harald Borgen] - [Scrimba]               |
 | ![Completed][Completed]     | Feb 2018 | [React For Beginners]                | [Wes Bos] - [reactforbeginners.com]           |
 | ![Completed][Completed]     | Feb 2018 | [Learn CSS Variables]                | [Per Harald Borgen] - [Scrimba]               |
-| ![In Progress][In Progress] |          | [CSS Grid]                           | [Wes Bos] - [cssgrid.io]                      |
+| ![Completed][Completed]     |          | [CSS Grid]                           | [Wes Bos] - [cssgrid.io]                      |
 | ![In Progress][In Progress] |          | [Flexbox Zombies]                    | [Geddski] - [mastery.games/p/flexbox-zombies] |
 | ![Soon][Soon]               |          | [JavaScript30]                       | [Wes Bos] - [javascript30.com]                |
 | ![Soon][Soon]               |          | [ES6]                                | [Wes Bos] - [es6.io]                          |
